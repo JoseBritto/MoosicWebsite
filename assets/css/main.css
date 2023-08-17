@@ -42,6 +42,7 @@ section{
     background: #BBBDF6;
     border-radius: 10px;
     cursor: pointer;
+    white-space: nowrap;
 }
 
 #heading .content button:hover, #heading .content button:focus{
